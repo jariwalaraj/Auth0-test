@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth0-test", "Auth0-test\Auth0-test.csproj", "{3DBFD3E6-F192-436A-B2B9-B4F47C795A2D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth0-WebApp", "Auth0-WebApp\Auth0-WebApp.csproj", "{4F46568C-ABAC-45AC-9928-0EF547EE2CEA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth0-API", "Auth0-WebApp\Auth0-API.csproj", "{4F46568C-ABAC-45AC-9928-0EF547EE2CEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3DBFD3E6-F192-436A-B2B9-B4F47C795A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3DBFD3E6-F192-436A-B2B9-B4F47C795A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3DBFD3E6-F192-436A-B2B9-B4F47C795A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3DBFD3E6-F192-436A-B2B9-B4F47C795A2D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4F46568C-ABAC-45AC-9928-0EF547EE2CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4F46568C-ABAC-45AC-9928-0EF547EE2CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F46568C-ABAC-45AC-9928-0EF547EE2CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
